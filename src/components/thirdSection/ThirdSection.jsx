@@ -7,14 +7,14 @@ const ThirdSection = () => {
                 <div className='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-20 flex flex-col lg:flex-row  items-center py-20 gap-36'>
 
                     <div>
-                        <h2 className='text-4xl text-gray-700 font-semibold'>
+                        <h2 className='text-2xl lg:text-4xl text-gray-700 font-semibold text-center lg:text-left'>
                             Generate flirty (or thoughtful) responses and openers.
                         </h2>
-                        <p className='text-gray-500 mt-2'>
+                        <p className='text-gray-500 mt-2 text-center lg:text-left'>
                             Need a little help getting the conversation started? We've got you covered.
                         </p>
                         <div className=''>
-                            <div className='bg-red-400 bg-opacity-10 text-gray-600 rounded-xl py-7 px-10 mt-7'>
+                            <div className='bg-gray-400 bg-opacity-10 text-gray-600 rounded-xl py-7 px-10 mt-7 shadow-md shadow-red-500/30'>
                                 <span>
                                     {/* conversation svg */}
                                     <svg xmlns="http://www.w3.org/2000/svg" className="h-14 w-14 inline-block" viewBox="0 0 20 20" fill="currentColor">
@@ -31,7 +31,9 @@ const ThirdSection = () => {
                             https://www.yourmove.ai/
                         ">
 
-                                <button className='bg-gray-700 mt-5 text-white px-10 py-[12px] rounded-md text-sm font-semibold hover:bg-red-600 transition duration-200'>Try it now</button>
+                                <div className='flex justify-center lg:justify-start'>
+                                    <button className='bg-gray-700 mt-7 text-white px-10 py-[12px] rounded-md text-sm font-semibold hover:bg-red-600 transition duration-200'>Try it now</button>
+                                </div>
                             </a>
                         </div>
                     </div>
@@ -41,7 +43,7 @@ const ThirdSection = () => {
 
                 </div>
                 <div className='absolute top-10 lg:right-44'>
-                    <div className='h-[500px] w-[500px] bg-red-500 rounded-full  opacity-[0.1] blur-3xl'></div>
+                    <div className='h-[250px] w-[250px] lg:h-[500px] lg:w-[500px] bg-red-500 rounded-full  opacity-[0.1] blur-3xl'></div>
                 </div>
             </div>
         </div>

@@ -30,10 +30,10 @@ const Hero = () => {
             <div>
                 <div className=''>
                     {/* pink circle */}
-                    <div className='absolute top-36 left-10 lg:top-36 lg:left-44 flex flex-col lg:flex-row'>
+                    <div className='absolute top-20 left-28 lg:top-36 lg:left-44 flex flex-col lg:flex-row'>
 
-                        <div className='h-[500px] w-[500px]  rounded-full bg-sky-500 opacity-[0.12] blur-3xl '></div>
-                        <div className='h-[500px] w-[500px]  rounded-full bg-red-500 opacity-[0.12] blur-3xl relative bottom-80 right-20 lg:bottom-0 lg:right-36'></div>
+                        <div className='h-[250px] w-[250px] lg:h-[500px] lg:w-[500px]  rounded-full bg-sky-500 opacity-20 lg:opacity-[0.12] blur-3xl '></div>
+                        <div className='h-[250px] w-[250px] lg:h-[500px] lg:w-[500px]  rounded-full bg-red-500 opacity-20 lg:opacity-[0.12] blur-3xl relative bottom-80 right-20 lg:bottom-0 lg:right-36'></div>
                     </div>
                     <div className='absolute top-10 right-56'>
                         <div className='h-[600px] w-[600px] bg-sky-500 rounded-full  opacity-[0.12] blur-3xl'></div>

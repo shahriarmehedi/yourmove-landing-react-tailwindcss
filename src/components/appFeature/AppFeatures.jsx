@@ -4,10 +4,10 @@ const AppFeatures = () => {
     return (
         <div className='mt-20 mb-20'>
             <div className='text-center text-gray-700 mb-10'>
-                <h3 className='text-4xl font-semibold'>
+                <h3 className='text-2xl lg:text-4xl font-semibold'>
                     Main features of the app
                 </h3>
-                <p className='text-gray-400 py-2'>
+                <p className='text-gray-400 py-2 px-3'>
                     Some main features of the app so that you can get a better idea of what it does.
                 </p>
             </div>
@@ -16,7 +16,7 @@ const AppFeatures = () => {
                     <div className='p-7 border-[1px] rounded-lg border-gray-300'>
                         <div className=''>
                             {/* type svg */}
-                            <svg className='w-14 h-14 text-gray-700' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                            <svg className='w-14 h-14 text-sky-500' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                                 <path fillRule="evenodd" d="M2 3a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm1 0v12h12V3H3z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 5a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V5zm1 0v2h6V5H6z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 9a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V9zm1 0v2h6V9H6z" clipRule="evenodd" />
@@ -32,7 +32,7 @@ const AppFeatures = () => {
                     <div className='p-7 border-[1px] rounded-lg border-gray-300'>
                         <div className=''>
                             {/* type svg */}
-                            <svg className='w-14 h-14 text-gray-700' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                            <svg className='w-14 h-14 text-sky-500' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                                 <path fillRule="evenodd" d="M2 3a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm1 0v12h12V3H3z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 5a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V5zm1 0v2h6V5H6z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 9a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V9zm1 0v2h6V9H6z" clipRule="evenodd" />
@@ -48,7 +48,7 @@ const AppFeatures = () => {
                     <div className='p-7 border-[1px] rounded-lg border-gray-300'>
                         <div className=''>
                             {/* type svg */}
-                            <svg className='w-14 h-14 text-gray-700' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                            <svg className='w-14 h-14 text-sky-500' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                                 <path fillRule="evenodd" d="M2 3a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm1 0v12h12V3H3z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 5a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V5zm1 0v2h6V5H6z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 9a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V9zm1 0v2h6V9H6z" clipRule="evenodd" />
@@ -64,7 +64,7 @@ const AppFeatures = () => {
                     <div className='p-7 border-[1px] rounded-lg border-gray-300'>
                         <div className=''>
                             {/* type svg */}
-                            <svg className='w-14 h-14 text-gray-700' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                            <svg className='w-14 h-14 text-sky-500' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                                 <path fillRule="evenodd" d="M2 3a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm1 0v12h12V3H3z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 5a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V5zm1 0v2h6V5H6z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 9a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V9zm1 0v2h6V9H6z" clipRule="evenodd" />
@@ -80,7 +80,7 @@ const AppFeatures = () => {
                     <div className='p-7 border-[1px] rounded-lg border-gray-300'>
                         <div className=''>
                             {/* type svg */}
-                            <svg className='w-14 h-14 text-gray-700' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                            <svg className='w-14 h-14 text-sky-500' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                                 <path fillRule="evenodd" d="M2 3a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm1 0v12h12V3H3z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 5a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V5zm1 0v2h6V5H6z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 9a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V9zm1 0v2h6V9H6z" clipRule="evenodd" />
@@ -96,7 +96,7 @@ const AppFeatures = () => {
                     <div className='p-7 border-[1px] rounded-lg border-gray-300'>
                         <div className=''>
                             {/* type svg */}
-                            <svg className='w-14 h-14 text-gray-700' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                            <svg className='w-14 h-14 text-sky-500' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                                 <path fillRule="evenodd" d="M2 3a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm1 0v12h12V3H3z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 5a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V5zm1 0v2h6V5H6z" clipRule="evenodd" />
                                 <path fillRule="evenodd" d="M5 9a1 1 0 011-1h6a1 1 0 011 1v2a1 1 0 01-1 1H6a1 1 0 01-1-1V9zm1 0v2h6V9H6z" clipRule="evenodd" />
