@@ -1,6 +1,7 @@
 
 import AppFeatures from './components/appFeature/AppFeatures';
 import AppStore from './components/appStore/AppStore';
+import ContactForm from './components/contact/ContactForm';
 import Footer from './components/footer/Footer';
 import Header from './components/header/Header';
 import Hero from './components/hero/Hero';
@@ -16,6 +17,7 @@ function App() {
       <ThirdSection />
       <AppFeatures />
       <AppStore />
+      <ContactForm />
       <Footer />
     </div>
   );

@@ -2,8 +2,8 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className='bg-gray-200'>
-            <footer className="footer footer-center p-10 text-base-content rounded">
+        <div className='bg-gray-800 text-gray-300'>
+            <footer className="footer footer-center p-10 rounded">
                 {/* <div className="grid grid-flow-col gap-4">
                     <a className="link link-hover">About us</a>
                     <a className="link link-hover">Contact</a>
@@ -13,7 +13,7 @@ const Footer = () => {
                 <div>
                     <div className=' flex items-center'>
                         <img className='h-10' src="/images/icon-red-512.png" alt="" />
-                        <h2 className='text-xl text-gray-700 font-semibold px-3'>
+                        <h2 className='text-xl text-gray-300 font-semibold px-3'>
                             YourMove
                         </h2>
                     </div>
