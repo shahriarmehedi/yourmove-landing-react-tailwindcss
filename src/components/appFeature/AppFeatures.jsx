@@ -2,7 +2,7 @@ import React from 'react';
 
 const AppFeatures = () => {
     return (
-        <div className='mt-20 mb-20'>
+        <div id="features" className='mt-20 mb-20'>
             <div className='text-center text-gray-700 mb-10'>
                 <h3 className='text-2xl lg:text-4xl font-semibold'>
                     Main features of the app

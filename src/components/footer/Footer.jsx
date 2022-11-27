@@ -4,12 +4,12 @@ const Footer = () => {
     return (
         <div className='bg-gray-800 text-gray-300'>
             <footer className="footer footer-center p-10 rounded">
-                {/* <div className="grid grid-flow-col gap-4">
-                    <a className="link link-hover">About us</a>
-                    <a className="link link-hover">Contact</a>
-                    <a className="link link-hover">Jobs</a>
-                    <a className="link link-hover">Press kit</a>
-                </div> */}
+                <div className="grid grid-flow-col gap-4">
+                    <a href='#features' className="link link-hover">Features</a>
+                    <a href='#contact' className="link link-hover">Contact</a>
+                    <a href="https://www.yourmove.ai/privacy" className="link link-hover">Privacy policy</a>
+
+                </div>
                 <div>
                     <div className=' flex items-center'>
                         <img className='h-10' src="/images/icon-red-512.png" alt="" />
@@ -18,6 +18,7 @@ const Footer = () => {
                         </h2>
                     </div>
                 </div>
+
                 <div>
                     <p>Copyright © 2022 - All right reserved by
                         <span>
