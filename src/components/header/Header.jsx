@@ -13,10 +13,12 @@ const Header = () => {
                         </h2>
                     </div>
                     <div className='hidden lg:block'>
-                        <a href='#' className=' rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]'>Menu 1</a>
-                        <a href='#' className=' rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]'>Menu 2</a>
-                        <a href='#' className=' rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]'>Menu 3</a>
-                        <a href='#' className=' rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]'>Menu 4</a>
+                        <a href='/' className=' rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]'>Home</a>
+                        <a href='#features' className=' rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]'>Features</a>
+                        <a href='#contact' className=' rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]'>Contact</a>
+                        <a href='https://www.yourmove.ai/privacy' className=' rounded-lg px-3 py-2 text-sm text-gray-700 transition-colors delay-150 hover:text-gray-900 hover:delay-[0ms]'>
+                            Privacy policy
+                        </a>
 
                     </div>
                 </div>
